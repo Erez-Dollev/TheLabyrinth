@@ -1,0 +1,29 @@
+MyBook/
+├── Introduction/
+│   └── Introduction.txt
+├── Chapter1/
+│   ├── Chapter1.txt
+│   ├── Section1/
+│   │   └── Section1.txt
+│   └── Section2/
+│       └── Section2.txt
+├── Chapter2/
+│   ├── Chapter2.txt
+│   └── Subsection/
+│       ├── Notes.txt
+│       └── References.txt
+└── Appendix/
+    └── Appendix.txt
+
+After SummeryTree Processing (What You See in the App):
+
+MyBook/
+├── Introduction (merged - clickable & expandable)
+├── Chapter1 (merged - clickable & expandable)
+│   ├── Section1 (merged - clickable & expandable)
+│   └── Section2 (merged - clickable & expandable)
+├── Chapter2 (merged - clickable & expandable)
+│   └── Subsection/
+│       ├── Notes
+│       └── References
+└── Appendix (merged - clickable & expandable)

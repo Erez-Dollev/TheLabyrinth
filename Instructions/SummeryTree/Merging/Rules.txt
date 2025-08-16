@@ -1,0 +1,3 @@
+1. When a parent folder and a text file have the exact same name, excluding the .txt suffix, the folder and file merges. The folder in the navigation bar will also serve as a link.
+2. If the name is not exact, the file will apear within the folder on the navigation bar and the folder will not be clickable.
+3. If you want to have ["internal link","Instructions/SummeryTree/Internal Links/Rules.txt"] to the merged folder/file, you must follow the third rule of links.

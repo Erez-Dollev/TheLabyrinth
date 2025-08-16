@@ -1,0 +1,3 @@
+The SummeryTree app will be provided with a folder by you, either on your own computer or the ["TheLabyrinth","Instructions/TheLabyrinth"] repo, and return an interactive webpage.
+The ["format","Instructions/SummeryTree/Format.txt"] of the folder and files within, must be as instructed.
+Once the book is ready, you can simply use the "Local Book" button and provide your book, if eveything is correct then your book should be perfectly broadcasted on the SummeryTree app.

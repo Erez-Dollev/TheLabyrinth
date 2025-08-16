@@ -1,0 +1,2 @@
+This book provides instructions for the ["SummeryTree","Instructions/SummeryTree"] app and ["TheLabyrinth","Instructions/TheLabyrinth"] content library.
+These instructions will show you how the app and library works, and how to use them.

@@ -1,0 +1,6 @@
+TheLabyrinth is a git repository, an online provider, that serves a library of books, including this one.
+These books are content provided to the ["SummeryTree","Instructions/SummeryTree"] app.
+
+"One can think of The Labyrinth as a well that waters the roots of the Summery Tree".
+
+By ["contacting","Instructions/TheLabyrinth/Contact.txt"] the master of the labyrith, you can add or edit books.

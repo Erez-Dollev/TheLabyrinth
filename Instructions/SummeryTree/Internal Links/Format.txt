@@ -1,0 +1,11 @@
+In case of a link to a non merged text-file:
+ - ["name for the link","MyBook/folder1/folder1.1/textfile1.txt"]
+
+In case of a link to a merged folder/text-file:
+ - ["name for the link","MyBook/folder1"]
+
+example:
+
+between barracks "[ ]" - "recursion","Instructions/SummeryTree/Internal Links/Format.txt" - ["recursion","Instructions/SummeryTree/Internal Links/Format.txt"]
+
+between barracks "[ ]" - "back to merged folder","Instructions/SummeryTree/Internal Links" - ["back to merged folder","Instructions/SummeryTree/Internal Links"]

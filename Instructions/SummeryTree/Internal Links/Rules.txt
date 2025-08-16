@@ -1,0 +1,3 @@
+1. If the link ["format","Instructions/SummeryTree/Internal Links/Format.txt"] is fromed correctly, it will show a proper link.
+2. If the styling is incorrect, it will be shown as a simple text.
+3. If a text file ["merges","Instructions/SummeryTree/Merging"] with a folder, the link must target up to the folder and not all the way the text file itself.

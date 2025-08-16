@@ -1,0 +1,11 @@
+MyBook/
+├── Introduction.txt
+├── Chapter1/
+│   ├── Section1.txt
+│   └── Section2.txt
+├── Chapter2/
+│   ├── Section3.txt
+│   └── Subsection/
+│       ├── Notes.txt
+│       └── References.txt
+└── Appendix.txt
