@@ -1,0 +1,3 @@
+Each resonance have a distinguished pattern.
+
+That pattern is the identifier of each ["particle","Particles.txt"], ["affinity","Affinity.txt"] and ["anchor","Anchor.txt"] in existence.

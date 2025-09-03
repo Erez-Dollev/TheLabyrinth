@@ -1,0 +1,12 @@
+Commoner - Orven
+Initiate - Gravan
+Novice - Tillen
+Apprentice - Varen
+Practitioner - Krrun
+Adept - Drosna
+Expert - Myrrel
+Master - Sarrel
+GrandMaster - Quv~Sarrel
+Sage - Col~Sarrel
+Saint -Erythar
+Immortal - Erytharite

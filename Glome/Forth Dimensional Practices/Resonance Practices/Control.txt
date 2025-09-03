@@ -1,0 +1,4 @@
+Control, excluding ["affinity","Affinity.txt"], if the basic foundation of every resonator.
+To resonate anything you must establish control over ["anchors","Anchor.txt"] first.
+
+Once a resonator can resonate the ["pattern","Patterns.txt"] of an anchor over one ["iro","Units.txt"] he is considered a ["novice",""Tiers.txt"]

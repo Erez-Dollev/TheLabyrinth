@@ -1,0 +1,4 @@
+each whole particle is constructed of all four particle realms:
+["Soul","Soul.txt"] particle -> ["Mind","Mind.txt"] particle -> ["Spirit","Spirit.txt"] particle -> ["Physical","Matter.txt"] particle (a.k.a. Matter)
+
+The three origin particles are called realm particles, particlerealms or meta-physical particles, while the last particle is called physical particle or matter.
