@@ -1,0 +1,17 @@
+Mortal
+├── Commoner - Orven
+└── Initiate - Gravan
+Apprentice
+├── Novice - Tillen
+├── Apprentice - Varen
+└── Practitioner - Krrun
+Expert
+├── Adept - Drosna
+├── Expert - Myrel
+└── Master - Sarrel
+GrandMaster
+├── GrandMaster - QuvSarrel
+└── Sage - ColSarrel
+Trancendent
+├── Saint -Erythar
+└── Immortal - Erytharite
